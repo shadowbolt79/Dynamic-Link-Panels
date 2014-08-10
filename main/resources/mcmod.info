@@ -1,0 +1,30 @@
+[
+{
+
+  "modid": "MystcraftDLP",
+
+  "name": "Dynamic Link Panels",
+
+  "description": "Dynamic Link Panels brings a new element to linking within Mystcraft, via live panels.",
+
+  "version": "${version}",
+
+  "mcversion": "${mcversion}",
+
+  "url": "",
+
+  "updateUrl": "",
+
+  "authors": ["shadowking97"],
+
+  "credits": "xcompwiz for making Mystcraft",
+
+  "logoFile": "/DynamicLinkPanels.png",
+
+  "screenshots": [],
+
+  "dependencies": ["Mystcraft"]
+
+}
+
+]
